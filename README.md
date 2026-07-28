@@ -154,6 +154,10 @@ Please submit a Pull Request adding tools that:
 - are vendor-neutral where possible
 - clearly help reduce infrastructure emissions or waste
 
+### Support
+
+Need help implementing this? [Get in touch](https://fabiocicerchia.it/contact).
+
 ### Related Awesome Lists
 
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
