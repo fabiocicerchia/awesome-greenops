@@ -81,6 +81,7 @@ Run workloads when electricity is cleaner.
 
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - Build applications that schedule workloads using real-time carbon intensity.
 - [Kube-Green](https://kube-green.dev/) - Schedule Kubernetes workloads to reduce idle resource consumption.
+- [carbon-region-picker](https://github.com/fabiocicerchia/carbon-region-picker) - CLI that ranks cloud regions by real-time grid carbon intensity.
 
 ---
 
