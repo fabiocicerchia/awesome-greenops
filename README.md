@@ -103,6 +103,7 @@ Tools that connect cost optimization with sustainability.
 - [VMware Tanzu CloudHealth](https://www.vmware.com/products/tanzu-cloudhealth.html) - Multi-cloud cost management and optimization.
 - [FinOps Foundation](https://www.finops.org/) - Community and best practices for cloud financial management.
 - [FOCUS (FinOps Open Cost and Usage Specification)](https://focus.finops.org/) - Open specification for cloud billing and usage data.
+- [cost-diff](https://github.com/fabiocicerchia/cost-diff) - AWS cost diff: compares two billing periods and surfaces the biggest movers, formatted for PRs/Slack.
 
 ---
 
