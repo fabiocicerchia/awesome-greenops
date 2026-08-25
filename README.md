@@ -61,6 +61,7 @@ Tools for reducing Kubernetes energy consumption.
 - [OpenCost](https://opencost.io/) - Open-source Kubernetes cost monitoring with FinOps integration.
 - [Kubecost](https://www.kubecost.com/) - Kubernetes cost optimization and resource efficiency platform.
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - Export power consumption metrics to Prometheus.
+- [k8s-rightsizer-report](https://github.com/fabiocicerchia/k8s-rightsizer-report) - Right-sizing recommendations from Kubernetes metrics-server, as a readable report or patch YAML.
 
 ---
 
