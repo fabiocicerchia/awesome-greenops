@@ -130,6 +130,7 @@ Measure sustainability before deployment.
 - [WattTime](https://www.watttime.org/) - Marginal emissions data for carbon-aware computing.
 - [Climatiq](https://www.climatiq.io/) - Carbon calculation API for cloud and business activities.
 - [Tomorrow.io](https://www.tomorrow.io/) - Weather intelligence platform with sustainability use cases.
+- [cloud-carbon-scorecard](https://github.com/fabiocicerchia/cloud-carbon-scorecard) - An auditable dataset for carbon-aware cloud region selection.
 
 ---
 
