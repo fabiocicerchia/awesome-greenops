@@ -49,6 +49,7 @@ Platforms that measure operational cloud emissions.
 - [EasyVirt CO2Scope](https://www.easyvirt.com/en/our-it-solutions/co2-scope-greenops-solution/) - Carbon monitoring for IT infrastructure and services.
 - [Persefoni](https://www.persefoni.com/) - Enterprise carbon accounting platform.
 - [Watershed](https://watershed.com/) - ESG and carbon accounting platform for enterprises.
+- [carbon-badge](https://github.com/fabiocicerchia/carbon-badge) - GitHub Action that sums 30 days of CI energy use and publishes the repo's carbon footprint as a Shields.io README badge, marked with how the figure was derived.
 
 ---
 
