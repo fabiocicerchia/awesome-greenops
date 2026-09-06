@@ -37,9 +37,8 @@ run: ## Not applicable — there is nothing to run
 	@echo "Nothing to run: this is a curated list, not a program."
 	@echo "See README > Not applicable."
 
-lint: ## Not applicable — no linter is configured here
-	@echo "No linter: no markdownlint config in this repo. 'make test' checks the"
-	@echo "links, which is what can actually rot. See README > Not applicable."
+lint: ## Run the whole gate — every hook, every file
+	pre-commit run --all-files
 
 format: ## Not applicable — no formatter runs over the list
 	@echo "No formatter: the table layout is maintained by hand."
