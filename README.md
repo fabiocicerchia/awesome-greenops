@@ -167,3 +167,24 @@ Need help implementing this? [Get in touch](https://fabiocicerchia.it/contact).
 ### License
 
 [MIT](LICENSE)
+
+## Make targets
+
+`make help` lists every target. Every repository in this estate exposes the
+same eight verbs, so you do not have to read a Makefile to find out how to
+build, run or test one (FC-GEN-057). A verb with nothing to do here still
+exists: it exits 0 and prints why, and is listed under "Not applicable"
+(FC-GEN-058).
+
+| Verb   | What it does here                          |
+| ------ | ------------------------------------------ |
+| `test` | Check every link in `README.md` resolves   |
+
+A list is its links, and a dead one is the only defect it can have. `make test`
+needs [lychee](https://lychee.cli.rs/installation/) and exits 69 with that hint
+when it is missing.
+
+### Not applicable
+
+Everything else — `setup`, `install`, `build`, `run`, `lint`, `format`,
+`analyze`. This repository is a README and a LICENSE.
