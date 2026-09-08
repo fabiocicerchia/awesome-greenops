@@ -176,9 +176,9 @@ build, run or test one (FC-GEN-057). A verb with nothing to do here still
 exists: it exits 0 and prints why, and is listed under "Not applicable"
 (FC-GEN-058).
 
-| Verb   | What it does here                          |
-| ------ | ------------------------------------------ |
-| `test` | Check every link in `README.md` resolves   |
+| Verb   | What it does here                        |
+| ------ | ---------------------------------------- |
+| `test` | Check every link in `README.md` resolves |
 
 A list is its links, and a dead one is the only defect it can have. `make test`
 needs [lychee](https://lychee.cli.rs/installation/) and exits 69 with that hint
