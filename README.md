@@ -113,6 +113,7 @@ Automate sustainable infrastructure.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - General-purpose policy engine.
 - [Kyverno](https://kyverno.io/) - Kubernetes-native policy management.
 - [HashiCorp Sentinel](https://developer.hashicorp.com/sentinel) - Policy-as-code framework for infrastructure automation.
+- [carbon-budget-action](https://github.com/fabiocicerchia/carbon-budget-action) - GitHub Action that fails a PR when its estimated carbon cost exceeds a configurable budget.
 
 ---
 
