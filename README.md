@@ -113,6 +113,7 @@ Automate sustainable infrastructure.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - General-purpose policy engine.
 - [Kyverno](https://kyverno.io/) - Kubernetes-native policy management.
 - [HashiCorp Sentinel](https://developer.hashicorp.com/sentinel) - Policy-as-code framework for infrastructure automation.
+- [greenlint](https://github.com/fabiocicerchia/greenlint) - Static linter for carbon-inefficient patterns in code and CI: oversized images, missing caches, wasted compute.
 
 ---
 
